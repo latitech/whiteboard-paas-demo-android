@@ -1,4 +1,4 @@
-# WhiteBoard-SDK
+# 白板SDK使用文档
 
 [![maven central](https://maven-badges.herokuapp.com/maven-central/com.latitech.android/whiteboard/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.latitech.android/whiteboard)
 
